@@ -1,0 +1,39 @@
+/* Style par défaut pour tous les boutons */
+button {
+    background-color: lightgray;
+    border: 2px solid black;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    margin: 2px;
+}
+
+
+#highlight {
+    background-color: yellow;
+    color: black;
+}
+
+/* Style par défaut lorsqu'un bouton est réinitialisé */
+button.default {
+    background-color: lightgray;
+    color: black;
+}
+#Last {
+    background-color: lightyellow;
+    color: white;
+}
+
+#Destroyed {
+    background-color: maroon;
+    color: white;
+}
+button:hover {
+    background-color: darkgray;  /* Change la couleur de fond en bleu */
+    color: white;  /* Change la couleur du texte en blanc */
+}
+
+#False {
+    background-color: red;
+    color: white;
+}

@@ -104,6 +104,8 @@ make docs # Unless you have already compiled the tests with make
 - MONNERET Lucie
 - LIDALT Omar
 
+You can contribute to the project by forking the repository, making changes, and submitting a pull request.
+
 
 ### To Do
 
